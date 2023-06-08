@@ -6,4 +6,4 @@ It is a utility library for unity providing convenient attributes, tools and ext
 Class names are named after this naming convention: Blu[what it extends], e.g. BluVector
 
 This library took inspiration from Lexderi and his own library LuLib.
-Also, a big part of the credit goes to DeadCows and his repo [MyBox](https://github.com/Deadcows/MyBox/)
+Also, a big part of the credit goes to [Deadcows](https://github.com/Deadcows) and his repo [MyBox](https://github.com/Deadcows/MyBox/)
