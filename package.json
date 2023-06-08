@@ -1,0 +1,21 @@
+{
+  "name": "com.bluestimes.blulib",
+  "version": "1.0.1",
+  "displayName": "BluLib",
+  "description": "Utility library for Unity including a set of attributes, tools and extensions",
+  "unity": "2021.3",
+  "unityRelease": "23f1",
+  "keywords": [
+    "unity",
+    "library",
+    "attributes",
+    "tools",
+    "extensions"
+  ],
+  "author": {
+    "name": "Bluestimes",
+    "email": "",
+    "url": ""
+  },
+  "type": "tool"
+}
